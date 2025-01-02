@@ -1,5 +1,6 @@
 "$schema" = 'https://starship.rs/config-schema.json'
 
+
 format = """
 [](surface0)\
 $os\
